@@ -1,0 +1,33 @@
+header{
+    text-align: center;
+    font-style:italic;
+    padding-top: 30px; 
+    font-size: 50px;
+    padding-bottom: 30px;
+    color: wheat;
+}
+
+img{
+    width: 100%;
+    margin-top: 10px;
+}
+
+.borderline{
+    border-style: solid;
+    border-color:antiquewhite;
+    border-width: 2px;
+}
+
+h4{
+text-align: center;
+
+color: blanchedalmond;
+text-decoration: underline;
+}
+
+.borderline:hover{
+    border-width: 3px;
+    cursor: pointer;
+    border-radius: 5px;
+    border-color: cadetblue;
+}
