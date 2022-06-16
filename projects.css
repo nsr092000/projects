@@ -32,12 +32,11 @@ img{
     border-width: 2px;
 }
 
-h4{
+h5{
 text-align: center;
-
 color: blanchedalmond;
-
 }
+
 
 .borderline:hover{
     border-width: 3px;
@@ -54,4 +53,12 @@ footer{
     margin-bottom: 50px;
 }
 
+.imagestyle img{
+    height: 150px;
+}
 
+h1 span{
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 400;
+}
